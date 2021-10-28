@@ -1,4 +1,4 @@
--😎Cursando Ciência da Computação
+-😎Cursando Ciência da Computação na Bandtec
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAquino1&show_icons=true&theme=tokyonight)
 
