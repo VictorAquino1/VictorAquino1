@@ -1,4 +1,4 @@
--😎Cursando Ciência da Computação na Faculdade de Tecnologia Bandeirantes - BandTec
+-😎Cursando Ciência da Computação - Sptech
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAquino1&show_icons=true&theme=tokyonight)
 
